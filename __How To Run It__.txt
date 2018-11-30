@@ -1,0 +1,19 @@
+--*--   Run Guide   --*--
+_________________
+
+=> Put the project folder in the path (C:\xampp\htdocs)
+_________________
+*Run the files in that order :
+1- run constants.
+2- run createdb.
+3- run database.
+4- run createtable.
+5- run add_data.
+6- run start.
+7- run index.
+8- run result.
+_________________
+
+==> Then open the link to the start page (http://localhost/Courses&TAs/start.php)
+_________________
+:)
